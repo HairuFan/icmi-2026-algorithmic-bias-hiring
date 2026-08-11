@@ -5,11 +5,15 @@ This repository contains the cleaned, public-facing analysis code associated wit
 > H. Fan and S. Wang, **“Diagnosing Algorithmic Bias in AI-Powered Hiring: Toward a Fairness-Aware Framework,”** 2026 IEEE 5th International Conference on Computing and Machine Intelligence (ICMI), Al-Ahsa, Saudi Arabia, 2026, pp. 1–5. DOI: **10.1109/ICMI68585.2026.11539889**
 
 
-## Repository
+## Repository and archival release
 
-Canonical repository URL: <https://github.com/HairuFan/icmi-2026-algorithmic-bias-hiring>
+Canonical repository: <https://github.com/HairuFan/icmi-2026-algorithmic-bias-hiring>
 
-The GitHub repository and the Zenodo software record are intended to represent the same versioned research-software artifact. The IEEE DOI remains the citation for the conference paper itself.
+The version 1.0.0 archival software release is published on Zenodo:
+
+**Zenodo DOI:** `10.5281/zenodo.21894169`
+
+The GitHub repository and the Zenodo record represent the same versioned research-software artifact. The IEEE DOI remains the citation for the associated conference paper.
 
 ## Reproducibility scope
 
@@ -118,14 +122,6 @@ The public release intentionally makes a small number of reproducibility-oriente
 
 For a line-by-line audit rationale, see `REPRODUCIBILITY_AUDIT.md`.
 
-## Archival release
-
-A DOI has been reserved for the version 1.0.0 archival release on Zenodo:
-
-**Reserved Zenodo DOI:** `10.5281/zenodo.21894169`
-
-The DOI will be registered when the Zenodo record is published.
-
 ## License
 
 Code in this package is released under the MIT License. Dataset licenses remain with their original providers and are not modified by this repository.
@@ -134,4 +130,5 @@ Code in this package is released under the MIT License. Dataset licenses remain 
 
 Please cite the IEEE paper when using the scientific results. The software package also contains `CITATION.cff` for code citation.
 
-**Paper DOI:** `10.1109/ICMI68585.2026.11539889`
+**Associated paper DOI:** `10.1109/ICMI68585.2026.11539889`  
+**Software release DOI:** `10.5281/zenodo.21894169`
