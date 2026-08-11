@@ -1,0 +1,32 @@
+{
+  "title": "Reproducibility Code for Diagnosing Algorithmic Bias in AI-Powered Hiring: Toward a Fairness-Aware Framework",
+  "upload_type": "software",
+  "description": "Reproducibility code for the analysis stage associated with the 2026 IEEE ICMI paper 'Diagnosing Algorithmic Bias in AI-Powered Hiring: Toward a Fairness-Aware Framework'. The package reproduces data-level gender summaries, logistic-regression holdout fairness metrics (SR, TPR, FPR), fairness gaps, group-stratified bootstrap intervals, baseline regressions, figures, and machine-readable outputs from the cleaned datasets used in the authors' source notebook. Raw-to-clean preprocessing was not present in that notebook and is outside this package's reproducibility claim. Canonical repository: https://github.com/HairuFan/icmi-2026-algorithmic-bias-hiring. Reserved Zenodo DOI for version 1.0.0: 10.5281/zenodo.21894169.",
+  "creators": [
+    {
+      "name": "Fan, Hairu"
+    }
+  ],
+  "version": "1.0.0",
+  "license": "mit",
+  "keywords": [
+    "algorithmic bias",
+    "fairness-aware machine learning",
+    "AI-powered hiring",
+    "fair recruitment",
+    "bias mitigation",
+    "responsible AI",
+    "machine learning",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "scheme": "doi",
+      "identifier": "10.1109/ICMI68585.2026.11539889",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-conferencepaper"
+    }
+  ],
+  "access_right": "open",
+  "language": "eng"
+}
